@@ -3,8 +3,6 @@ Multi-view satellite imagery-based 3D reconstruction method
 
 Official Implementation of Optimized Image Combination Selection and Confidence-guided DSM Fusion for 3D Reconstruction from Multi-view Satellite Imagery
 
-<img width="2244" height="995" alt="image" src="https://github.com/user-attachments/assets/60ed2a4c-deaa-42f8-8510-9002a1f2a1dd" />
-
 
 Data Preparation
 
